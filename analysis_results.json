@@ -1,0 +1,101 @@
+{
+    "Cross-Validation Scores": [
+        0.7397565906711736,
+        0.7358013888555927,
+        0.7397565906711736,
+        0.740889730619551,
+        0.7377815868753945,
+        0.740889730619551,
+        0.7400426725481265,
+        0.7383469581825011,
+        0.7400426725481265,
+        0.7400426725481265,
+        0.7383469581825011,
+        0.7400426725481265
+    ],
+    "Mean Cross-Validation Accuracy": 0.7393116854058287,
+    "Top Positive Features": [
+        {
+            "Feature": "Curricular units 2nd sem (approved)",
+            "Importance": 1.5525797654497098
+        },
+        {
+            "Feature": "Curricular units 1st sem (approved)",
+            "Importance": 0.9030534968378733
+        },
+        {
+            "Feature": "Curricular units 2nd sem (enrolled)",
+            "Importance": 0.9013481639123104
+        },
+        {
+            "Feature": "Curricular units 2nd sem (grade)",
+            "Importance": 0.3773393318092907
+        },
+        {
+            "Feature": "Curricular units 1st sem (enrolled)",
+            "Importance": 0.33962614691716525
+        },
+        {
+            "Feature": "Curricular units 1st sem (grade)",
+            "Importance": 0.32093065893811973
+        },
+        {
+            "Feature": "Age at enrollment",
+            "Importance": 0.22983410182046277
+        },
+        {
+            "Feature": "Curricular units 2nd sem (credited)",
+            "Importance": 0.2243567821027704
+        },
+        {
+            "Feature": "Curricular units 1st sem (credited)",
+            "Importance": 0.20316994936571367
+        },
+        {
+            "Feature": "Unemployment rate",
+            "Importance": 0.08837630489847748
+        }
+    ],
+    "Top Negative Features": [
+        {
+            "Feature": "Curricular units 1st sem (credited)",
+            "Importance": 0.20316994936571367
+        },
+        {
+            "Feature": "Unemployment rate",
+            "Importance": 0.08837630489847748
+        },
+        {
+            "Feature": "Curricular units 2nd sem (evaluations)",
+            "Importance": 0.06925058288986585
+        },
+        {
+            "Feature": "Curricular units 2nd sem (without evaluations)",
+            "Importance": 0.06412015616329875
+        },
+        {
+            "Feature": "Curricular units 1st sem (evaluations)",
+            "Importance": 0.05971302337590175
+        },
+        {
+            "Feature": "Admission grade",
+            "Importance": 0.03720901326618574
+        },
+        {
+            "Feature": "Curricular units 1st sem (without evaluations)",
+            "Importance": 0.0318761779397919
+        },
+        {
+            "Feature": "Inflation rate",
+            "Importance": 0.01036732249978308
+        },
+        {
+            "Feature": "GDP",
+            "Importance": 0.005283474443882958
+        },
+        {
+            "Feature": "Previous qualification (grade)",
+            "Importance": 0.000762738532512793
+        }
+    ]
+}
